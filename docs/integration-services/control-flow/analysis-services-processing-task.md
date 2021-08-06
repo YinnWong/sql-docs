@@ -33,7 +33,7 @@ ms.author: chugu
 -   The options Process Index and Process Update are not appropriate for tabular models and should not be used.  
   
 -   Batch settings are ignored for tabular models.  
-  
+-
  [!INCLUDE[ssISnoversion](../../includes/ssisnoversion-md.md)] includes a number of tasks that perform business intelligence operations, such as running Data Definition Language (DDL) statements and data mining prediction queries. For more information about related business intelligence tasks, click one of the following topics:  
   
 -   [Analysis Services Execute DDL Task](../../integration-services/control-flow/analysis-services-execute-ddl-task.md)  
